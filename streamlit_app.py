@@ -58,6 +58,7 @@ st.markdown("""
 3. Navigate to the "APIs & Services > Credentials" page.
 4. Click on "Create Credentials" and select "API key".
 5. Your new API key will be displayed; copy and use it here.
+6. Enable Generative AI API.
 """)
 
 # API Key Input
